@@ -16,6 +16,8 @@ public class Main {
             arr[i] = sc.nextInt();
         }
 
+        sc.nextLine();
+
         System.out.println("Ingrese la suma objetivo S:");
         int S = sc.nextInt();
 
